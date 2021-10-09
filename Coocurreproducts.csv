@@ -1,0 +1,6 @@
+"","Tie","Book","Surfboard","Short","Water"
+"Tie",0,4,1,1,4
+"Book",4,0,1,1,4
+"Surfboard",1,1,0,3,3
+"Short",1,1,3,0,3
+"Water",4,4,3,3,0
